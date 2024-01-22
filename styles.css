@@ -1,6 +1,16 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap";
+
 body {
   margin: 0;
-  background: #c2cad0;
+  background: #eae7dc;
   text-align: center;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
+
+#title-names {
+  color: #e85a4f;
+}
+
+#desc {
+  color: #8e8d8a;
 }
