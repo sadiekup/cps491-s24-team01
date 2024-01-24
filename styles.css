@@ -16,8 +16,12 @@ body {
   color: #8e8d8a;
 }
 
+#navbar {
+    background-color: #d8c3a5;
+    margin: 15px;
+}
+
 #navbar a {
-  outline: #8e8d8a;
   color: #000;
   margin: 10px;
   padding: 5px;
