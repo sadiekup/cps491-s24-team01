@@ -17,8 +17,9 @@ body {
 }
 
 #navbar {
-    background-color: #d8c3a5;
-    margin: 15px;
+  background-color: #d8c3a5;
+  padding: 15px;
+  text-align: left;
 }
 
 #navbar a {
